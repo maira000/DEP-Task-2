@@ -9,7 +9,11 @@ houses (e.g., size, number of bedrooms, location) to create a
 predictive model that estimates the price of a house.
 
 Key Steps:
+
 Data cleaning and preprocessing
+
 Feature engineering
+
 Model selection and training (e.g., linear regression)
+
 Model evaluation and fine-tuning
